@@ -1,7 +1,7 @@
 Supplementary materials for the paper: Attention-based cross-modal fusion for audio-visual voice activity detection in musical video streams
 
-<h3 align="left"><a name="part3">For real video detection demos, please see <a href="https://yuanbo2021.github.io/Attention-based-AV-VAD/" 
-target="https://yuanbo2021.github.io/Attention-based-audio-visual-VAD/">here</a>.<p></p></h3> 
+<h3 align="left"><a name="part3">For real video detection demos, please see <a href="https://yuanbo2020.github.io/Attention-based-AV-VAD/" 
+target="https://yuanbo2020.github.io/Attention-based-audio-visual-VAD/">here</a>.<p></p></h3> 
 
 <h3 align="left"><a name="part3">1. The proposed attention-based AVVAD (ATT-AVVAD) framework.</a><p></p></h3> 
 
@@ -56,7 +56,7 @@ In the proposed ATT-AVVAD framework, the audio branch roughly distinguishes the 
 <h3 align="left">5. For the source code, please check the Code.<p></p></h3>
 
 
-<p>If you want to watch more intuitively, please see here: https://yuanbo2021.github.io/Attention-based-AV-VAD/.</p>
+<p>If you want to watch more intuitively, please see here: https://yuanbo2020.github.io/Attention-based-AV-VAD/.</p>
 
 
 
