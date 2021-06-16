@@ -53,10 +53,23 @@ To intuitively inspect the focal areas of the model, a visualization method CAM 
 
 In the proposed ATT-AVVAD framework, the audio branch roughly distinguishes the target sound events in latent space, but it is not accurate enough. The visual branch predicts the probability of the anchor vocalizing from the facial information in the image sequence, so as to correct the learned representations from the audio branch, and then transmit them to the classification layer of the audio-visual module for final decisions. The above results show that each branch has achieved the expected goal, and the fusion based on semantic similarity is reasonable and effective.
 
-<h3 align="left">5. For the source code, please check the Code.<p></p></h3>
-
-
 <p>If you want to watch more intuitively, please see here: https://yuanbo2020.github.io/Attention-based-AV-VAD/.</p>
 
+# Citation
+Please feel free to use the open dataset MAVC100 and consider citing our paper as
 
+```bibtex
+@inproceedings{interspeech2021_hou,
+  author    = {Yuanbo Hou and
+               Zhesong Yu and
+               Xia Liang and
+               Xingjian Du and
+               Bilei Zhu and
+               Zejun Ma and
+               Dick Botteldooren},
+  title     = {Attention-based cross-modal fusion for audio-visual voice activity detection in musical video streams},
+  year=2021,
+  booktitle={Proc. Interspeech 2021}
+}
+```
 
