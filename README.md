@@ -59,17 +59,13 @@ In the proposed ATT-AVVAD framework, the audio branch roughly distinguishes the 
 Please feel free to use the open dataset MAVC100 and consider citing our paper as
 
 ```bibtex
-@inproceedings{interspeech2021_hou,
-  author    = {Yuanbo Hou and
-               Zhesong Yu and
-               Xia Liang and
-               Xingjian Du and
-               Bilei Zhu and
-               Zejun Ma and
-               Dick Botteldooren},
-  title     = {Attention-based cross-modal fusion for audio-visual voice activity detection in musical video streams},
+@inproceedings{hou21_interspeech,
+  author={Yuanbo Hou and Zhesong Yu and Xia Liang and Xingjian Du and Bilei Zhu and Zejun Ma and Dick Botteldooren},
+  title={{Attention-Based Cross-Modal Fusion for Audio-Visual Voice Activity Detection in Musical Video Streams}},
   year=2021,
-  booktitle={Proc. Interspeech 2021}
+  booktitle={Proc. Interspeech 2021},
+  pages={321--325},
+  doi={10.21437/Interspeech.2021-37}
 }
 ```
 
